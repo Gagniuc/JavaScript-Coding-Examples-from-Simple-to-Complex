@@ -1,7 +1,6 @@
-# JavaScript-Coding-Examples-from-Simple-to-Complex
-JavaScript Coding Examples from Simple to Complex
+# JavaScript Coding Examples from Simple to Complex
 
-# JavaScript Programming Examples - Table of Contents
+# Table of Contents (JavaScript)
 
 ## 1. Introduction
 - 1.1 Future of JavaScript
