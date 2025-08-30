@@ -305,4 +305,10 @@ This book provides a comprehensive exploration of programming in JavaScript, pro
 
 > <i>Paul A. Gagniuc. Coding Examples from Simple to Complex - Applications in Javascript. Synthesis Lectures on Computer Science. Springer International Publishing, 2024, pp. 1-240.</i>
 
+***
 
+<div align="center">
+  <img src="https://github.com/Gagniuc/JavaScript-Coding-Examples-from-Simple-to-Complex/blob/main/img/javascript.png" alt="Coding Examples from Simple to Complex">
+</div>
+
+***
